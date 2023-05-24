@@ -1,0 +1,12 @@
+.coursecard{
+    width: 18rem;
+    margin: 16px;
+}
+
+#cursosContainer{
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    flex-wrap: wrap;
+    width: 100%;
+}
